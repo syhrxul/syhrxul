@@ -26,7 +26,6 @@
 > - **Web Development**: React, Next.js, FastAPI, Laravel, Tailwind CSS, fullstack smart city dashboards
 > - **Embedded Systems & Robotics**: robot control via Ubuntu Server, microcontroller integration
 > - **DevOps & Networking**: Ubuntu Server, Tailscale VPN setup, Samba, SSH, multi-device integration
-> - **Daily Coding Growth**: I build consistent habits summarizing every ChatGPT session for mastery
 
 ---
 
