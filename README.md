@@ -5,16 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42f5a7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+technologies;Currently+focusing+on+Fullstack+Dev+%26+AI;Let's+connect+and+build+together!" alt="Typing SVG" />
 </p>
 
----
-
-### 🎓 About Me
-
-- 🏫 I am currently studying **Informatics at Universitas Islam Indonesia**
-- 🎓 Graduated from **SMAN 1 Purbalingga**
-- 💻 I love exploring **programming, AI, robotics, and server management**
-- 🔭 I’m working on multiple projects learned from my daily ChatGPT studies
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Backend Dev, and IoT**
-- ⚡ Fun fact: I document my programming journey every day for personal growth
 
 ---
 
